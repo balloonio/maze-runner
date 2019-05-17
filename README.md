@@ -8,8 +8,6 @@ Maze Runner is an arcade maze game written in Python using [pyxel](https://githu
 
 > How would you randomly generate a maze?
 
-After I saw [pyxel](https://github.com/kitao/pyxel), I decided to further implement it into an arcade game.
-
 ## Build and Play
 
 ```
